@@ -14,7 +14,7 @@ type Android struct {
 }
 
 func main() {
-	p := Android{
+	p := Android{asd
 		Person: Person{
 			"Ivan",
 			"Ivanov",
